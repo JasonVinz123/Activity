@@ -1,0 +1,5 @@
+/* styles.css */
+mat-toolbar {
+    background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff); /* RGB gradient background */
+    color: #fdfdfd; /* Dark text */
+   }
